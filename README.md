@@ -1,1 +1,0 @@
-# CNN_Waste_Segregation_Soumak_Majumdar
